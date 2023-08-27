@@ -1,0 +1,34 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPenaGarcia/curso-node-js.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "midudev"
+  ],
+  "author": "Daniel Armando Peña García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielPenaGarcia/curso-node-js/issues"
+  },
+  "homepage": "https://github.com/DanielPenaGarcia/curso-node-js#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "stylelint": {
+    "extends": "standard"
+  }
+}
